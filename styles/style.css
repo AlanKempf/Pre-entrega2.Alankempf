@@ -414,6 +414,14 @@ footer{
         padding-bottom: 20px;
     }
 
+
+    .main__contact{
+        background-image: url(../img/german-desserts-14.jpg.webp) ;
+        width: 576px;
+        height: 800px;
+    }
+
+
 }
 
  
