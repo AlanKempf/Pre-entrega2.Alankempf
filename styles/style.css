@@ -406,6 +406,14 @@ footer{
         height: fit-content;
 
     }
- }
+ 
+/* ------- CONTACTO PAGE ---------*/
+
+    .form{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+}
 
  
